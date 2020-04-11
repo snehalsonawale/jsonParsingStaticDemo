@@ -25,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
             "{\"id\":\"102\",\"name\":\"Vimal Jaiswal\",\"salary\":\"60000\"}] }";*/
 
 
+  /*  String strJson="{ \"Employee\" :[{\"id\":\"101\",\"name\":\"Sonoo Jaiswal\",\"salary\":\"50000\"}," +
+            "{\"id\":\"102\",\"name\":\"Vimal Jaiswal\",\"salary\":\"60000\"}] }";*/
+
+
 
     /*{
         "employee": {
