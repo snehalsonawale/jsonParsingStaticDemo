@@ -88,21 +88,6 @@ public class MainActivity extends AppCompatActivity {
         TextView textView1=(TextView)findViewById(R.id.textView1);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         /*TextView textView1=(TextView)findViewById(R.id.textView1);*/
         String data = "";
 
